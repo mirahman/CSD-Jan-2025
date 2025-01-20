@@ -1,64 +1,42 @@
-###Product backlog
+Here’s a list of user stories for a product backlog of a small fintech wallet application:
 
-Here’s a list of **user stories** for a product backlog of a small **fintech wallet application**:  
+Core Features
+As a user, I want to create an account using my email and phone number so that I can start using the wallet.
+As a user, I want to log in securely using a password or biometric authentication so that my account remains protected.
+As a user, I want to view my wallet balance on the home screen so that I know how much money I have.
+As a user, I want to add funds to my wallet using a bank transfer or credit card so that I can use the wallet for payments.
+As a user, I want to transfer money to another user by entering their phone number or email so that I can send money easily.
+As a user, I want to request money from another user so that I can receive payments seamlessly.
+As a user, I want to view my transaction history so that I can keep track of my spending and income.
 
----
+Security and Compliance
+As a user, I want to enable two-factor authentication (2FA) so that my account is more secure.
+As a user, I want to verify my identity by uploading an ID document so that I can comply with regulations.
+As a user, I want to receive real-time notifications for all transactions so that I am immediately aware of any activity in my wallet.
 
-### **Core Features**  
-1. **As a user, I want to create an account using my email and phone number so that I can start using the wallet.**  
-2. **As a user, I want to log in securely using a password or biometric authentication so that my account remains protected.**  
-3. **As a user, I want to view my wallet balance on the home screen so that I know how much money I have.**  
-4. **As a user, I want to add funds to my wallet using a bank transfer or credit card so that I can use the wallet for payments.**  
-5. **As a user, I want to transfer money to another user by entering their phone number or email so that I can send money easily.**  
-6. **As a user, I want to request money from another user so that I can receive payments seamlessly.**  
-7. **As a user, I want to view my transaction history so that I can keep track of my spending and income.**  
+Payment Features
+As a user, I want to scan a QR code to make payments to merchants so that I can pay quickly and easily.
+As a user, I want to split a bill with friends by sharing the amount equally or unequally so that I can settle group expenses.
+As a user, I want to set up recurring payments for subscriptions or bills so that I don’t miss due dates.
 
----
+Savings and Budgeting Features
+As a user, I want to set up a savings goal so that I can allocate funds toward specific objectives.
+As a user, I want to view spending analytics and categorization so that I can manage my budget effectively.
 
-### **Security and Compliance**  
-8. **As a user, I want to enable two-factor authentication (2FA) so that my account is more secure.**  
-9. **As a user, I want to verify my identity by uploading an ID document so that I can comply with regulations.**  
-10. **As a user, I want to receive real-time notifications for all transactions so that I am immediately aware of any activity in my wallet.**  
+Rewards and Loyalty
+As a user, I want to earn cashback or rewards for certain transactions so that I feel incentivized to use the app.
+As a user, I want to redeem rewards or cashback directly into my wallet balance so that I can use them easily.
 
----
+Customer Support
+As a user, I want to access in-app customer support via chat so that I can resolve issues quickly.
+As a user, I want to report a suspicious transaction so that I can prevent fraud or misuse of my account.
 
-### **Payment Features**  
-11. **As a user, I want to scan a QR code to make payments to merchants so that I can pay quickly and easily.**  
-12. **As a user, I want to split a bill with friends by sharing the amount equally or unequally so that I can settle group expenses.**  
-13. **As a user, I want to set up recurring payments for subscriptions or bills so that I don’t miss due dates.**  
+Admin/User Management
+As an admin, I want to manage user accounts so that I can resolve issues and enforce compliance.
+As an admin, I want to monitor transaction patterns to identify fraudulent or suspicious activities.
+As an admin, I want to configure transaction limits and fees so that the app adheres to business rules.
 
----
-
-### **Savings and Budgeting Features**  
-14. **As a user, I want to set up a savings goal so that I can allocate funds toward specific objectives.**  
-15. **As a user, I want to view spending analytics and categorization so that I can manage my budget effectively.**  
-
----
-
-### **Rewards and Loyalty**  
-16. **As a user, I want to earn cashback or rewards for certain transactions so that I feel incentivized to use the app.**  
-17. **As a user, I want to redeem rewards or cashback directly into my wallet balance so that I can use them easily.**  
-
----
-
-### **Customer Support**  
-18. **As a user, I want to access in-app customer support via chat so that I can resolve issues quickly.**  
-19. **As a user, I want to report a suspicious transaction so that I can prevent fraud or misuse of my account.**  
-
----
-
-### **Advanced Features (Optional)**  
-20. **As a user, I want to link my wallet to third-party apps for seamless integration with other financial tools.**  
-21. **As a user, I want to invest directly through the app in preselected financial products so that I can grow my savings.**  
-22. **As a user, I want to withdraw money from my wallet to my linked bank account so that I can access my funds offline.**  
-
----
-
-### **Admin/User Management**  
-23. **As an admin, I want to manage user accounts so that I can resolve issues and enforce compliance.**  
-24. **As an admin, I want to monitor transaction patterns to identify fraudulent or suspicious activities.**  
-25. **As an admin, I want to configure transaction limits and fees so that the app adheres to business rules.**  
-
----
-
-This backlog provides a comprehensive starting point, with the flexibility to prioritize stories based on the minimum viable product (MVP) requirements and user needs.
+Advanced Features (Optional)
+As a user, I want to link my wallet to third-party apps for seamless integration with other financial tools.
+As a user, I want to invest directly through the app in preselected financial products so that I can grow my savings.
+As a user, I want to withdraw money from my wallet to my linked bank account so that I can access my funds offline.
